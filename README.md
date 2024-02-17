@@ -18,7 +18,7 @@ A game about my favourite japanese singer Mafumafu and his mascot Mafuteru. Mafu
 
 Includes UI, start animation, flying physics, rope physics, Unity's Particle system, animation, sound and more.
 
-**I am aware that the game is too difficult for the average user because the flying is too sensitive and fast. This is an easy fix I just change the force value, but did not want to go through exporting process again.**
+**I am aware that the game is too difficult for the average user because the flying is too sensitive and fast. This is an easy fix I just change the force value, but did not want to go through the exporting process again.**
 
 ## How to play
 
