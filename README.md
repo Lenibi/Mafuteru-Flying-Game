@@ -10,7 +10,7 @@ Works best on a PC 1080p 16:9 screen. Runs on mobile horizontally but not as wel
 <img src="./Images/ss9.png">
 
 ## Gameplay Showcase
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/HJl8d4lF8Bg)
+[![Watch the video](https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s900-c-k-c0x00ffffff-no-rj)](https://youtu.be/HJl8d4lF8Bg)
 
 ## Description
 
