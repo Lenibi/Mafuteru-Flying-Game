@@ -16,7 +16,7 @@ https://youtu.be/HJl8d4lF8Bg
 
 A game about my favourite japanese singer Mafumafu and his mascot Mafuteru. Mafumafu is taken away in a cage, and Mafuteru flies to save him!
 
-Includes UI, start animation, flying physics, rope physics, Unity's Particle system, animation, sound and more.
+Made in Unity, includes UI, start animation, flying physics, rope physics, Unity's Particle system, animation, sound and more.
 
 **I am aware that the game is too difficult for the average user because the flying is too sensitive and fast. This is an easy fix I just change the force value, but did not want to go through the exporting process again.**
 
